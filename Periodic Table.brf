@@ -1,0 +1,726 @@
+  ,p]iodic ,table
+
+  ,ele;t3 ,hydrog5
+  ,symbol3 ;,h
+  ,atomic ,numb]3 #a
+  ,atomic ,wei<t3 #a4jjh
+  ,category3 ,nonmetal
+
+  ,ele;t3 ,helium
+  ,symbol3 ,he
+  ,atomic ,numb]3 #b
+  ,atomic ,wei<t3 #d4jjbfjb
+  ,category3 ,noble gas
+
+  ,ele;t3 ,li?ium
+  ,symbol3 ,li
+  ,atomic ,numb]3 #c
+  ,atomic ,wei<t3 #f4id
+  ,category3 ,alkali metal
+
+  ,ele;t3 ,b]yllium
+  ,symbol3 ,2
+  ,atomic ,numb]3 #d
+  ,atomic ,wei<t3 #i4jabb
+  ,category3 ,alkal9e e>? metal       #a
+
+  ,ele;t3 ,boron
+  ,symbol3 ;,b
+  ,atomic ,numb]3 #e
+  ,atomic ,wei<t3 #aj4ha
+  ,category3 ,metalloid
+
+  ,ele;t3 ,c>bon
+  ,symbol3 ;,c
+  ,atomic ,numb]3 #f
+  ,atomic ,wei<t3 #ab4ja
+  ,category3 ,nonmetal
+
+  ,ele;t3 ,nitrog5
+  ,symbol3 ;,n
+  ,atomic ,numb]3 #g
+  ,atomic ,wei<t3 #ad4jjg
+  ,category3 ,nonmetal
+
+  ,ele;t3 ,oxyg5
+  ,symbol3 ,o
+  ,atomic ,numb]3 #h
+  ,atomic ,wei<t3 #ae4iii
+  ,category3 ,nonmetal
+                                      #b
+  ,ele;t3 ,fluor9e
+  ,symbol3 ;,f
+  ,atomic ,numb]3 #i
+  ,atomic ,wei<t3 #ah4iihdjcafc
+  ,category3 ,halog5
+
+  ,ele;t3 ,neon
+  ,symbol3 ,ne
+  ,atomic ,numb]3 #aj
+  ,atomic ,wei<t3 #bj4agig
+  ,category3 ,noble gas
+
+  ,ele;t3 ,sodium
+  ,symbol3 ,na
+  ,atomic ,numb]3 #aa
+  ,atomic ,wei<t3 #bb4ihigfibh
+  ,category3 ,alkali metal
+
+  ,ele;t3 ,magnesium
+  ,symbol3 ,mg
+  ,atomic ,numb]3 #ab
+  ,atomic ,wei<t3 #bd4cje
+  ,category3 ,alkal9e e>? metal
+
+  ,ele;t3 ,alum9um                    #c
+  ,symbol3 ;,al
+  ,atomic ,numb]3 #ac
+  ,atomic ,wei<t3 #bf4ihaechf
+  ,category3 ,po/-transi;n metal
+
+  ,ele;t3 ,silicon
+  ,symbol3 ,si
+  ,atomic ,numb]3 #ad
+  ,atomic ,wei<t3 #bh4jhe
+  ,category3 ,metalloid
+
+  ,ele;t3 ,phosphorus
+  ,symbol3 ;,p
+  ,atomic ,numb]3 #ae
+  ,atomic ,wei<t3 #cj4igcgfaiih
+  ,category3 ,nonmetal
+
+  ,ele;t3 ,sulfur
+  ,symbol3 ;,s
+  ,atomic ,numb]3 #af
+  ,atomic ,wei<t3 #cb4jf
+  ,category3 ,nonmetal
+
+  ,ele;t3 ,*lor9e
+  ,symbol3 ,cl                        #d
+  ,atomic ,numb]3 #ag
+  ,atomic ,wei<t3 #ce4de
+  ,category3 ,halog5
+
+  ,ele;t3 ,>gon
+  ,symbol3 ,>
+  ,atomic ,numb]3 #ah
+  ,atomic ,wei<t3 #ci4idh
+  ,category3 ,noble gas
+
+  ,ele;t3 ,potassium
+  ,symbol3 ;,k
+  ,atomic ,numb]3 #ai
+  ,atomic ,wei<t3 #ci4jihc
+  ,category3 ,alkali metal
+
+  ,ele;t3 ,calcium
+  ,symbol3 ,ca
+  ,atomic ,numb]3 #bj
+  ,atomic ,wei<t3 #dj4jgh
+  ,category3 ,alkal9e e>? metal
+
+  ,ele;t3 ,sc&ium
+  ,symbol3 ,sc
+  ,atomic ,numb]3 #ba                 #e
+  ,atomic ,wei<t3 #dd4ieeijh
+  ,category3 ,transi;n metal
+
+  ,ele;t3 ,titanium
+  ,symbol3 ,ti
+  ,atomic ,numb]3 #bb
+  ,atomic ,wei<t3 #dg4hfg
+  ,category3 ,transi;n metal
+
+  ,ele;t3 ,vanadium
+  ,symbol3 ;,v
+  ,atomic ,numb]3 #bc
+  ,atomic ,wei<t3 #ej4idae
+  ,category3 ,transi;n metal
+
+  ,ele;t3 ,*romium
+  ,symbol3 ,cr
+  ,atomic ,numb]3 #bd
+  ,atomic ,wei<t3 #ea4iifa
+  ,category3 ,transi;n metal
+
+  ,ele;t3 ,manganese
+  ,symbol3 ,mn
+  ,atomic ,numb]3 #be
+  ,atomic ,wei<t3 #ed4ichjdd          #f
+  ,category3 ,transi;n metal
+
+  ,ele;t3 ,iron
+  ,symbol3 ,fe
+  ,atomic ,numb]3 #bf
+  ,atomic ,wei<t3 #ee4hde
+  ,category3 ,transi;n metal
+
+  ,ele;t3 ,cobalt
+  ,symbol3 ,co
+  ,atomic ,numb]3 #bg
+  ,atomic ,wei<t3 #eh4iccaie
+  ,category3 ,transi;n metal
+
+  ,ele;t3 ,nickel
+  ,symbol3 ,ni
+  ,atomic ,numb]3 #bh
+  ,atomic ,wei<t3 #eh4ficd
+  ,category3 ,transi;n metal
+
+  ,ele;t3 ,copp]
+  ,symbol3 ,cu
+  ,atomic ,numb]3 #bi
+  ,atomic ,wei<t3 #fc4edf
+  ,category3 ,transi;n metal          #g
+
+  ,ele;t3 ,z9c
+  ,symbol3 ,zn
+  ,atomic ,numb]3 #cj
+  ,atomic ,wei<t3 #fe4ch
+  ,category3 ,transi;n metal
+
+  ,ele;t3 ,gallium
+  ,symbol3 ,ga
+  ,atomic ,numb]3 #ca
+  ,atomic ,wei<t3 #fi4gbc
+  ,category3 ,po/-transi;n metal
+
+  ,ele;t3 ,g]manium
+  ,symbol3 ,ge
+  ,atomic ,numb]3 #cb
+  ,atomic ,wei<t3 #gb4fc
+  ,category3 ,metalloid
+
+  ,ele;t3 ,>s5ic
+  ,symbol3 ,z
+  ,atomic ,numb]3 #cc
+  ,atomic ,wei<t3 #gd4ibaeie
+  ,category3 ,metalloid
+                                      #h
+  ,ele;t3 ,sel5ium
+  ,symbol3 ,se
+  ,atomic ,numb]3 #cd
+  ,atomic ,wei<t3 #gh4iga
+  ,category3 ,nonmetal
+
+  ,ele;t3 ,brom9e
+  ,symbol3 ,br
+  ,atomic ,numb]3 #ce
+  ,atomic ,wei<t3 #gi4ijd
+  ,category3 ,halog5
+
+  ,ele;t3 ,krypton
+  ,symbol3 ,kr
+  ,atomic ,numb]3 #cf
+  ,atomic ,wei<t3 #hc4gih
+  ,category3 ,noble gas
+
+  ,ele;t3 ,rubidium
+  ,symbol3 ,rb
+  ,atomic ,numb]3 #cg
+  ,atomic ,wei<t3 #he4dfgh
+  ,category3 ,alkali metal
+
+  ,ele;t3 ,/rontium                   #i
+  ,symbol3 ,sr
+  ,atomic ,numb]3 #ch
+  ,atomic ,wei<t3 #hg4fb
+  ,category3 ,alkal9e e>? metal
+
+  ,ele;t3 ,yttrium
+  ,symbol3 ;,y
+  ,atomic ,numb]3 #ci
+  ,atomic ,wei<t3 #hh4ijehd
+  ,category3 ,transi;n metal
+
+  ,ele;t3 ,zirconium
+  ,symbol3 ,zr
+  ,atomic ,numb]3 #dj
+  ,atomic ,wei<t3 #ia4bbd
+  ,category3 ,transi;n metal
+
+  ,ele;t3 ,niobium
+  ,symbol3 ,nb
+  ,atomic ,numb]3 #da
+  ,atomic ,wei<t3 #ib4ijfcg
+  ,category3 ,transi;n metal
+
+  ,ele;t3 ,molybd5um
+  ,symbol3 ,mo                       #aj
+  ,atomic ,numb]3 #db
+  ,atomic ,wei<t3 #ie4ie
+  ,category3 ,transi;n metal
+
+  ,ele;t3 ,te*netium
+  ,symbol3 ,tc
+  ,atomic ,numb]3 #dc
+  ,atomic ,wei<t3 #ih
+  ,category3 ,transi;n metal
+
+  ,ele;t3 ,ru!nium
+  ,symbol3 ,ru
+  ,atomic ,numb]3 #dd
+  ,atomic ,wei<t3 #aja4jg
+  ,category3 ,transi;n metal
+
+  ,ele;t3 ,rhodium
+  ,symbol3 ,rh
+  ,atomic ,numb]3 #de
+  ,atomic ,wei<t3 #ajb4ijee
+  ,category3 ,transi;n metal
+
+  ,ele;t3 ,palladium
+  ,symbol3 ;,pd
+  ,atomic ,numb]3 #df                #aa
+  ,atomic ,wei<t3 #ajf4db
+  ,category3 ,transi;n metal
+
+  ,ele;t3 ,silv]
+  ,symbol3 ;,ag
+  ,atomic ,numb]3 #dg
+  ,atomic ,wei<t3 #ajg4hfhb
+  ,category3 ,transi;n metal
+
+  ,ele;t3 ,cadmium
+  ,symbol3 ;,cd
+  ,atomic ,numb]3 #dh
+  ,atomic ,wei<t3 #aab4dad
+  ,category3 ,transi;n metal
+
+  ,ele;t3 ,9dium
+  ,symbol3 ,9
+  ,atomic ,numb]3 #di
+  ,atomic ,wei<t3 #aad4hah
+  ,category3 ,po/-transi;n metal
+
+  ,ele;t3 ,t9
+  ,symbol3 ,sn
+  ,atomic ,numb]3 #ej
+  ,atomic ,wei<t3 #aah4ga            #ab
+  ,category3 ,po/-transi;n metal
+
+  ,ele;t3 ,antimony
+  ,symbol3 ,sb
+  ,atomic ,numb]3 #ea
+  ,atomic ,wei<t3 #aba4gf
+  ,category3 ,metalloid
+
+  ,ele;t3 ,tellurium
+  ,symbol3 ,te
+  ,atomic ,numb]3 #eb
+  ,atomic ,wei<t3 #abg4f
+  ,category3 ,metalloid
+
+  ,ele;t3 ,iod9e
+  ,symbol3 ,i
+  ,atomic ,numb]3 #ec
+  ,atomic ,wei<t3 #abf4ijddg
+  ,category3 ,halog5
+
+  ,ele;t3 ,x5on
+  ,symbol3 ,xe
+  ,atomic ,numb]3 #ed
+  ,atomic ,wei<t3 #aca4bic
+  ,category3 ,noble gas              #ac
+
+  ,ele;t3 ,cesium
+  ,symbol3 ,cs
+  ,atomic ,numb]3 #ee
+  ,atomic ,wei<t3 #acb4ijedeaif
+  ,category3 ,alkali metal
+
+  ,ele;t3 ,b>ium
+  ,symbol3 ,ba
+  ,atomic ,numb]3 #ef
+  ,atomic ,wei<t3 #acg4cbg
+  ,category3 ,alkal9e e>? metal
+
+
+  ,ele;t3 ,lan?anum
+  ,symbol3 ,la
+  ,atomic ,numb]3 #eg
+  ,atomic ,wei<t3 #ach4ijedg
+  ,category3 ,lan?anide
+
+  ,ele;t3 ,c]ium
+  ,symbol3 ,ce
+  ,atomic ,numb]3 #eh
+  ,atomic ,wei<t3 #adj4aaf
+  ,category3 ,lan?anide              #ad
+
+  ,ele;t3 ,praseodymium
+  ,symbol3 ,pr
+  ,atomic ,numb]3 #ei
+  ,atomic ,wei<t3 #adj4ijgff
+  ,category3 ,lan?anide
+
+  ,ele;t3 ,neodymium
+  ,symbol3 ,nd
+  ,atomic ,numb]3 #fj
+  ,atomic ,wei<t3 #add4bdb
+  ,category3 ,lan?anide
+
+  ,ele;t3 ,prome?ium
+  ,symbol3 ,pm
+  ,atomic ,numb]3 #fa
+  ,atomic ,wei<t3 #ade
+  ,category3 ,lan?anide
+
+  ,ele;t3 ,sam>ium
+  ,symbol3 ,sm
+  ,atomic ,numb]3 #fb
+  ,atomic ,wei<t3 #aej4cf
+  ,category3 ,lan?anide
+                                     #ae
+  ,ele;t3 ,europium
+  ,symbol3 ,eu
+  ,atomic ,numb]3 #fc
+  ,atomic ,wei<t3 #aea4ifd
+  ,category3 ,lan?anide
+
+  ,ele;t3 ,gadol9ium
+  ,symbol3 ;,gd
+  ,atomic ,numb]3 #fd
+  ,atomic ,wei<t3 #aeg4be
+  ,category3 ,lan?anide
+
+  ,ele;t3 ,t]bium
+  ,symbol3 ,tb
+  ,atomic ,numb]3 #fe
+  ,atomic ,wei<t3 #aeh4ibece
+  ,category3 ,lan?anide
+
+  ,ele;t3 ,dysprosium
+  ,symbol3 ,dy
+  ,atomic ,numb]3 #ff
+  ,atomic ,wei<t3 #afb4e
+  ,category3 ,lan?anide
+
+  ,ele;t3 ,holmium                   #af
+  ,symbol3 ,ho
+  ,atomic ,numb]3 #fg
+  ,atomic ,wei<t3 #afd4icjcc
+  ,category3 ,lan?anide
+
+  ,ele;t3 ,]bium
+  ,symbol3 ,]
+  ,atomic ,numb]3 #fh
+  ,atomic ,wei<t3 #afg4bei
+  ,category3 ,lan?anide
+
+  ,ele;t3 ,?ulium
+  ,symbol3 ;,tm
+  ,atomic ,numb]3 #fi
+  ,atomic ,wei<t3 #afh4icdbb
+  ,category3 ,lan?anide
+
+  ,ele;t3 ,ytt]bium
+  ,symbol3 ,yb
+  ,atomic ,numb]3 #gj
+  ,atomic ,wei<t3 #agc4jde
+  ,category3 ,lan?anide
+
+  ,ele;t3 ,lutetium
+  ,symbol3 ,lu                       #ag
+  ,atomic ,numb]3 #ga
+  ,atomic ,wei<t3 #agd4iffh
+  ,category3 ,lan?anide
+
+  ,ele;t3 ,hafnium
+  ,symbol3 ,hf
+  ,atomic ,numb]3 #gb
+  ,atomic ,wei<t3 #agh4di
+  ,category3 ,transi;n metal
+
+  ,ele;t3 ,tantalum
+  ,symbol3 ,ta
+  ,atomic ,numb]3 #gc
+  ,atomic ,wei<t3 #ahj4idghh
+  ,category3 ,transi;n metal
+
+  ,ele;t3 ,tung/5
+  ,symbol3 ;,w
+  ,atomic ,numb]3 #gd
+  ,atomic ,wei<t3 #ahc4hd
+  ,category3 ,transi;n metal
+
+  ,ele;t3 ,rh5ium
+  ,symbol3 ,re
+  ,atomic ,numb]3 #ge                #ah
+  ,atomic ,wei<t3 #ahf4bjg
+  ,category3 ,transi;n metal
+
+  ,ele;t3 ,osmium
+  ,symbol3 ,os
+  ,atomic ,numb]3 #gf
+  ,atomic ,wei<t3 #aij4bc
+  ,category3 ,transi;n metal
+
+  ,ele;t3 ,iridium
+  ,symbol3 ,ir
+  ,atomic ,numb]3 #gg
+  ,atomic ,wei<t3 #aib4bag
+  ,category3 ,transi;n metal
+
+  ,ele;t3 ,plat9um
+  ,symbol3 ,pt
+  ,atomic ,numb]3 #gh
+  ,atomic ,wei<t3 #aie4jhd
+  ,category3 ,transi;n metal
+
+  ,ele;t3 ,gold
+  ,symbol3 ,au
+  ,atomic ,numb]3 #gi
+  ,atomic ,wei<t3 #aif4iffefi        #ai
+  ,category3 ,transi;n metal
+
+  ,ele;t3 ,m]cury
+  ,symbol3 ,hg
+  ,atomic ,numb]3 #hj
+  ,atomic ,wei<t3 #bjj4eib
+  ,category3 ,transi;n metal
+
+  ,ele;t3 ,?allium
+  ,symbol3 ,tl
+  ,atomic ,numb]3 #ha
+  ,atomic ,wei<t3 #bjd4ch
+  ,category3 ,po/-transi;n metal
+
+  ,ele;t3 ,l1d
+  ,symbol3 ,pb
+  ,atomic ,numb]3 #hb
+  ,atomic ,wei<t3 #bjg4b
+  ,category3 ,po/-transi;n metal
+
+  ,ele;t3 ,bismu?
+  ,symbol3 ,bi
+  ,atomic ,numb]3 #hc
+  ,atomic ,wei<t3 #bjh4ihjdj
+  ,category3 ,po/-transi;n metal     #bj
+
+  ,ele;t3 ,polonium
+  ,symbol3 ,po
+  ,atomic ,numb]3 #hd
+  ,atomic ,wei<t3 #bji
+  ,category3 ,po/-transi;n metal
+
+  ,ele;t3 ,a/at9e
+  ,symbol3 ,at
+  ,atomic ,numb]3 #he
+  ,atomic ,wei<t3 #baj
+  ,category3 ,halog5
+
+  ,ele;t3 ,radon
+  ,symbol3 ,rn
+  ,atomic ,numb]3 #hf
+  ,atomic ,wei<t3 #bbb
+  ,category3 ,noble gas
+
+  ,ele;t3 ,francium
+  ,symbol3 ;,fr
+  ,atomic ,numb]3 #hg
+  ,atomic ,wei<t3 #bbc
+  ,category3 ,alkali metal
+                                     #ba
+  ,ele;t3 ,radium
+  ,symbol3 ,ra
+  ,atomic ,numb]3 #hh
+  ,atomic ,wei<t3 #bbf
+  ,category3 ,alkal9e e>? metal
+
+  ,ele;t3 ,act9ium
+  ,symbol3 ;,ac
+  ,atomic ,numb]3 #hi
+  ,atomic ,wei<t3 #bbg
+  ,category3 ,act9ide
+
+  ,ele;t3 ,?orium
+  ,symbol3 ,th
+  ,atomic ,numb]3 #ij
+  ,atomic ,wei<t3 #bcb4jcgg
+  ,category3 ,act9ide
+
+  ,ele;t3 ,protact9ium
+  ,symbol3 ,pa
+  ,atomic ,numb]3 #ia
+  ,atomic ,wei<t3 #bca4jcehh
+  ,category3 ,act9ide
+
+  ,ele;t3 ,uranium                   #bb
+  ,symbol3 ;,u
+  ,atomic ,numb]3 #ib
+  ,atomic ,wei<t3 #bch4jejgh
+  ,category3 ,act9ide
+
+  ,ele;t3 ,neptunium
+  ,symbol3 ,np
+  ,atomic ,numb]3 #ic
+  ,atomic ,wei<t3 #bcg
+  ,category3 ,act9ide
+
+  ,ele;t3 ,plutonium
+  ,symbol3 ,pu
+  ,atomic ,numb]3 #id
+  ,atomic ,wei<t3 #bdd
+  ,category3 ,act9ide
+
+  ,ele;t3 ,am]icium
+  ,symbol3 ,am
+  ,atomic ,numb]3 #ie
+  ,atomic ,wei<t3 #bdc
+  ,category3 ,act9ide
+
+  ,ele;t3 ,curium
+  ,symbol3 ,cm                       #bc
+  ,atomic ,numb]3 #if
+  ,atomic ,wei<t3 #bdg
+  ,category3 ,act9ide
+
+  ,ele;t3 ,b]kelium
+  ,symbol3 ,bk
+  ,atomic ,numb]3 #ig
+  ,atomic ,wei<t3 #bdg
+  ,category3 ,act9ide
+
+  ,ele;t3 ,cali=nium
+  ,symbol3 ,cf
+  ,atomic ,numb]3 #ih
+  ,atomic ,wei<t3 #bea
+  ,category3 ,act9ide
+
+  ,ele;t3 ,e9/e9ium
+  ,symbol3 ,es
+  ,atomic ,numb]3 #ii
+  ,atomic ,wei<t3 #beb
+  ,category3 ,act9ide
+
+  ,ele;t3 ,f]mium
+  ,symbol3 ,fm
+  ,atomic ,numb]3 #ajj               #bd
+  ,atomic ,wei<t3 #beg
+  ,category3 ,act9ide
+
+  ,ele;t3 ,m5delevium
+  ,symbol3 ,md
+  ,atomic ,numb]3 #aja
+  ,atomic ,wei<t3 #beh
+  ,category3 ,act9ide
+
+  ,ele;t3 ,nobelium
+  ,symbol3 ,no
+  ,atomic ,numb]3 #ajb
+  ,atomic ,wei<t3 #bei
+  ,category3 ,act9ide
+
+  ,ele;t3 ,lawr5cium
+  ,symbol3 ;,lr
+  ,atomic ,numb]3 #ajc
+  ,atomic ,wei<t3 #bfb
+  ,category3 ,act9ide
+
+  ,ele;t3 ,ru!r=dium
+  ,symbol3 ,rf
+  ,atomic ,numb]3 #ajd
+  ,atomic ,wei<t3 #bfg               #be
+  ,category3 ,transi;n metal
+
+  ,ele;t3 ,dubnium
+  ,symbol3 ,db
+  ,atomic ,numb]3 #aje
+  ,atomic ,wei<t3 #bgj
+  ,category3 ,transi;n metal
+
+  ,ele;t3 ,s1borgium
+  ,symbol3 ,sg
+  ,atomic ,numb]3 #ajf
+  ,atomic ,wei<t3 #bga
+  ,category3 ,transi;n metal
+
+  ,ele;t3 ,bohrium
+  ,symbol3 ,bh
+  ,atomic ,numb]3 #ajg
+  ,atomic ,wei<t3 #bgj
+  ,category3 ,transi;n metal
+
+  ,ele;t3 ,hassium
+  ,symbol3 ,hs
+  ,atomic ,numb]3 #ajh
+  ,atomic ,wei<t3 #bgg
+  ,category3 ,transi;n metal         #bf
+
+  ,ele;t3 ,meitn]ium
+  ,symbol3 ,mt
+  ,atomic ,numb]3 #aji
+  ,atomic ,wei<t3 #bgf
+  ,category3 ,un"kn category
+
+  ,ele;t3 ,d>m/adtium
+  ,symbol3 ,ds
+  ,atomic ,numb]3 #aaj
+  ,atomic ,wei<t3 #bha
+  ,category3 ,un"kn category
+
+  ,ele;t3 ,ro5tg5ium
+  ,symbol3 ,rg
+  ,atomic ,numb]3 #aaa
+  ,atomic ,wei<t3 #bhj
+  ,category3 ,un"kn category
+
+  ,ele;t3 ,cop]nicium
+  ,symbol3 ,cn
+  ,atomic ,numb]3 #aab
+  ,atomic ,wei<t3 #bhe
+  ,category3 ,un"kn category
+                                     #bg
+  ,ele;t3 ,nihonium
+  ,symbol3 ,nh
+  ,atomic ,numb]3 #aac
+  ,atomic ,wei<t3 #bhf
+  ,category3 ,un"kn category
+
+  ,ele;t3 ,fl]ovium
+  ,symbol3 ,fl
+  ,atomic ,numb]3 #aad
+  ,atomic ,wei<t3 #bhi
+  ,category3 ,un"kn category
+
+  ,ele;t3 ,moscovium
+  ,symbol3 ,mc
+  ,atomic ,numb]3 #aae
+  ,atomic ,wei<t3 #bij
+  ,category3 ,un"kn category
+
+
+  ,ele;t3 ,liv]morium
+  ,symbol3 ,lv
+  ,atomic ,numb]3 #aaf
+  ,atomic ,wei<t3 #bic
+  ,category3 ,un"kn category
+                                     #bh
+  ,ele;t3 ,t5;s9e
+  ,symbol3 ,ts
+  ,atomic ,numb]3 #aag
+  ,atomic ,wei<t3 #bid
+  ,category3 ,un"kn category
+
+  ,ele;t3 ,oga;son
+  ,symbol3 ,og
+  ,atomic ,numb]3 #aah
+  ,atomic ,wei<t3 #bid
+  ,category3 ,un"kn category
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                     #bi
+
